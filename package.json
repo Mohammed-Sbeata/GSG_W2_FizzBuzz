@@ -1,0 +1,22 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "Using Test Driven Development to solve FizzBuzz.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GSG-CA/fizzbuzz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GSG-CA/fizzbuzz/issues"
+  },
+  "homepage": "https://github.com/GSG-CA/fizzbuzz#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
